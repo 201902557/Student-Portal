@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1665260713 source:c:\users\kkaym\onedrive\desktop\codeblocks projects\password generator\student portal\main.cpp
+	<iostream>
+	<windows.h>
+
+1667119485 source:c:\users\kkaym\onedrive\desktop\codeblocks projects\student portal\main.cpp
+	<iostream>
+	<windows.h>
+
